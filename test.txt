@@ -1,0 +1,17 @@
+Hello, I'm new to github
+
+Comands 
+
+path change directory ---- cd 
+
+to open the file --- open filename
+creating new file --- vi filename.txt 
+adding repository git ---- git add filename.txt
+to check the status --- git status
+to commit ---- git commit -m "message"
+to push the repositoty remote location --- git push
+ 
+
+
+
+
